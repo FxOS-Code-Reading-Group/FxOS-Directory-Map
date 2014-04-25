@@ -1,7 +1,7 @@
 Firefox OS Directory Map
 ========================
 
-Firefox OS (B3G) ソースコードのディレクトリマップです。
+Firefox OS (B2G) ソースコードのディレクトリマップです。
 
 - [gecko/](gecko/)
 - [gecko/dom/bindings/](gecko/dom/bindings/)
